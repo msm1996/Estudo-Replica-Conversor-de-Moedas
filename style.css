@@ -1,0 +1,142 @@
+* {
+    font-family: "Roboto", serif;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: #030f96;
+}
+
+.imagem-conversor {
+    width: 400px;
+    height: 300px;
+    border-radius: 20px;
+    padding: auto;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+main {
+    background-color: #F4F4F4;
+    width: 400px;
+    height: 712px;
+    border-radius: 20px;
+    padding: auto;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+b {
+    font-size: 25px;
+
+}
+
+label {
+    color: #777777;
+    padding-left: 15px;
+}
+
+select {
+    font-size: 20px;
+    width: 370px;
+    height: 48px;
+    border-radius: 4px;
+    padding-left: 8px;
+    cursor: pointer;
+}
+
+option {
+    width: 327px;
+    height: 48px;
+    border-radius: 4px;
+
+}
+
+input {
+    width: 360px;
+    height: 48px;
+    border-radius: 4px;
+    margin-left: 15px;
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+.valores {
+    padding-left: 18px;
+}
+
+button {
+    width: 373px;
+    height: 48px;
+    background-color: #772FD3;
+    color: white;
+    font-size: 18px;
+    margin-left: 15px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover{
+    opacity: 0.8;
+}
+
+button:active{
+    opacity: 0.6;
+}
+
+
+
+::placeholder {
+    padding-left: 15px;
+    font-size: 20px;
+}
+
+section {
+    border: 1px solid #772FD3;
+    border-radius: 10px;
+    padding: auto;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    width: 255px;
+    height: 327px;
+    margin-left: 15px;
+    padding-left: 112px;
+}
+
+.bandeira-br {
+    width: 50px;
+    height: 50px;
+    padding-left: 40px;
+}
+
+.reais {
+    padding-left: 40px;
+}
+
+.valor-converter{
+    padding-right: 3px;
+}
+
+.direcao-baixo {
+    width: 40px;
+    padding-left: 45px;
+}
+
+.bandeira-eua {
+    width: 50px;
+    height: 44px;
+    padding-left: 40px;
+}
+
+.dolares {
+    padding-left: 40px;
+}
+
+.valor-a-ser-convertido{
+padding-left: 5px;
+}
