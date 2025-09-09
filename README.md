@@ -18,3 +18,6 @@ O sistema permite converter valores em **Dólar (USD)**, **Euro (EUR)** e **Libr
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 <br>
 <h2>📸 Imagem do projeto:</h2> 
+<img src= "https://github.com/msm1996/Estudo-Replica-Conversor-de-Moedas/blob/main/Captura%20de%20tela%202025-09-08%20230751.png?raw=true">
+
+<a>✍ Feito por [Myke Santana Martins:](https://www.linkedin.com/in/myke-santana-martins)<a/>
